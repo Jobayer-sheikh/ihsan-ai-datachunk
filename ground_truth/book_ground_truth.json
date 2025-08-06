@@ -1,0 +1,212 @@
+[
+  {
+    "unit_title": "الوحدة األولى: مدخل إلى مصطلح الحديث",
+    "unit_start_page": 12,
+    "unit_end_page": 45,
+    "lessons": [
+      {
+        "lesson_title": "الدرس األول: التعريف بعلم مصطلح الحديث",
+        "lesson_start_page": 15,
+        "lesson_end_page": 19
+      },
+      {
+        "lesson_title": "الدرس الثاني: مصطلحات عامة في علم مصطلح الحديث",
+        "lesson_start_page": 20,
+        "lesson_end_page": 27
+      },
+      {
+        "lesson_title": "الدرس الثالث: أهمية اإلسناد ومنهج المحدثين في التثبت من صحة األخبار",
+        "lesson_start_page": 28,
+        "lesson_end_page": 35
+      },
+      {
+        "lesson_title": "الدرس الرابع: نشأة علم المصطلح، ومراحل التصنيف فيه، وأهم مصادره",
+        "lesson_start_page": 36,
+        "lesson_end_page": 45
+      }
+    ]
+  },
+  {
+    "unit_title": "الوحدة الثانية: تقسيم الخبر باعتبار تعدُّد طرقه",
+    "unit_start_page": 46,
+    "unit_end_page": 77,
+    "lessons": [
+      {
+        "lesson_title": "الدرس األول: المتواتر",
+        "lesson_start_page": 49,
+        "lesson_end_page": 56
+      },
+      {
+        "lesson_title": "الدرس الثاني: خبر اآلحاد",
+        "lesson_start_page": 57,
+        "lesson_end_page": 59
+      },
+      {
+        "lesson_title": "الدرس الثالث: المشهور",
+        "lesson_start_page": 60,
+        "lesson_end_page": 64
+      },
+      {
+        "lesson_title": "الدرس الرابع: العزيز",
+        "lesson_start_page": 65,
+        "lesson_end_page": 68
+      },
+      {
+        "lesson_title": "الدرس الخامس: الغريب",
+        "lesson_start_page": 69,
+        "lesson_end_page": 77
+      }
+    ]
+  },
+  {
+    "unit_title": "الوحدة الثالثة: تقسيم الحديث بالنسبة إلى من أسند إليه",
+    "unit_start_page": 78,
+    "unit_end_page": 103,
+    "lessons": [
+      {
+        "lesson_title": "الدرس األول: الحديث القدسي",
+        "lesson_start_page": 81,
+        "lesson_end_page": 86
+      },
+      {
+        "lesson_title": "الدرس الثاني: المرفوع",
+        "lesson_start_page": 87,
+        "lesson_end_page": 95
+      },
+      {
+        "lesson_title": "الدرس الثالث: الموقوف والمقطوع",
+        "lesson_start_page": 96,
+        "lesson_end_page": 103
+      }
+    ]
+  },
+  {
+    "unit_title": "الوحدة الرابعة: الحديث المقبول وأقسامه، وما يتبع ذلك",
+    "unit_start_page": 104,
+    "unit_end_page": 149,
+    "lessons": [
+      {
+        "lesson_title": "الدرس األول: الحديث الصحيح",
+        "lesson_start_page": 107,
+        "lesson_end_page": 122
+      },
+      {
+        "lesson_title": "الدرس الثاني: الحديث الحسن",
+        "lesson_start_page": 123,
+        "lesson_end_page": 130
+      },
+      {
+        "lesson_title": "الدرس الثالث: الصحيح لغيره والحسن لغيره",
+        "lesson_start_page": 131,
+        "lesson_end_page": 138
+      },
+      {
+        "lesson_title": "الدرس الرابع: االعتبار والمتابعات والشواهد",
+        "lesson_start_page": 139,
+        "lesson_end_page": 149
+      }
+    ]
+  },
+  {
+    "unit_title": "الوحدة الخامسة: الحديـث المردود وأقـسامه، وما يتبع ذلك",
+    "unit_start_page": 150,
+    "unit_end_page": 301,
+    "lessons": [
+      {
+        "lesson_title": "الدرس األول: الضعيف",
+        "lesson_start_page": 154,
+        "lesson_end_page": 164
+      },
+      {
+        "lesson_title": "الدرس الثاني: الـمُنْقَطِع",
+        "lesson_start_page": 165,
+        "lesson_end_page": 170
+      },
+      {
+        "lesson_title": "الدرس الثالث: الـمُعَلَّق",
+        "lesson_start_page": 171,
+        "lesson_end_page": 176
+      },
+      {
+        "lesson_title": "الدرس الرابع: المرسل",
+        "lesson_start_page": 177,
+        "lesson_end_page": 182
+      },
+      {
+        "lesson_title": "الدرس الخامس: الـمُعْضَل",
+        "lesson_start_page": 183,
+        "lesson_end_page": 188
+      },
+      {
+        "lesson_title": "الدرس السادس: الـمُدَلَّس",
+        "lesson_start_page": 189,
+        "lesson_end_page": 203
+      },
+      {
+        "lesson_title": "الدرس السابع: الـمَرسَل الخَفيُّ",
+        "lesson_start_page": 204,
+        "lesson_end_page": 208
+      },
+      {
+        "lesson_title": "الدرس الثامن: اإلسـناد الـمُعَنْعَن",
+        "lesson_start_page": 209,
+        "lesson_end_page": 213
+      },
+      {
+        "lesson_title": "الدرس التاسع: الـمَزيد في متَّصَل األسانيد",
+        "lesson_start_page": 214,
+        "lesson_end_page": 219
+      },
+      {
+        "lesson_title": "الدرس العاشر: حديث الـمُخْتَلِط",
+        "lesson_start_page": 220,
+        "lesson_end_page": 226
+      },
+      {
+        "lesson_title": "الدرس الحادي عشر: الـشَّاذُّ",
+        "lesson_start_page": 227,
+        "lesson_end_page": 232
+      },
+      {
+        "lesson_title": "الدرس الثاني عشر: الـمُنـكَر",
+        "lesson_start_page": 233,
+        "lesson_end_page": 237
+      },
+      {
+        "lesson_title": "الدرس الثالث عشر: الـمُعَلّ",
+        "lesson_start_page": 238,
+        "lesson_end_page": 245
+      },
+      {
+        "lesson_title": "الدرس الرابع عشر: زيادة الثِّقَة",
+        "lesson_start_page": 246,
+        "lesson_end_page": 253
+      },
+      {
+        "lesson_title": "الدرس الخامس عشر: الـمُدْرَج",
+        "lesson_start_page": 254,
+        "lesson_end_page": 263
+      },
+      {
+        "lesson_title": "الدرس السادس عشر: المقلوب",
+        "lesson_start_page": 264,
+        "lesson_end_page": 269
+      },
+      {
+        "lesson_title": "الدرس السابع عشر: الـمُضْطَرِب",
+        "lesson_start_page": 270,
+        "lesson_end_page": 275
+      },
+      {
+        "lesson_title": "الدرس الثامن عشر: الـمُصَحَّف",
+        "lesson_start_page": 276,
+        "lesson_end_page": 282
+      },
+      {
+        "lesson_title": "الدرس التاسع عشر: الـمَوضوع",
+        "lesson_start_page": 283,
+        "lesson_end_page": 301
+      }
+    ]
+  }
+]

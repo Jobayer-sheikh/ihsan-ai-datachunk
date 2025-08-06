@@ -1,0 +1,8 @@
+langchain
+langchain-openai
+langchain-google-genai 
+python-dotenv
+markdown-it-py
+PyMuPDF
+streamlit
+streamlit_pdf_viewer

@@ -1,0 +1,102 @@
+[
+  {
+    "unit_title": "الوحدة األولى: مدخل إلى الدالئل والشمائل النبوية",
+    "unit_start_page": 12,
+    "unit_end_page": 45,
+    "lessons": [
+      {
+        "lesson_title": "الدرس األول: النبوة والرسالة",
+        "lesson_start_page": 16,
+        "lesson_end_page": 25
+      },
+      {
+        "lesson_title": "الدرس الثاني: الدالئل والشمائل والخصائص تعريفها، وآثارها، والتأليف فيها",
+        "lesson_start_page": 26,
+        "lesson_end_page": 45
+      }
+    ]
+  },
+  {
+    "unit_title": "الوحدة الثانية: دالئل نبوة النبي ﷺ وخصائصه وحقوقه",
+    "unit_start_page": 46,
+    "unit_end_page": 91,
+    "lessons": [
+      {
+        "lesson_title": "الدرس األول: دالئل نبوة النبي ﷺ في القرآن الكريم والسنة النبوية وأخبار السابقين",
+        "lesson_start_page": 50,
+        "lesson_end_page": 70
+      },
+      {
+        "lesson_title": "الدرس الثاني: خصائص النبي ﷺ",
+        "lesson_start_page": 71,
+        "lesson_end_page": 82
+      },
+      {
+        "lesson_title": "الدرس الثالث: حقوق النبي ﷺ",
+        "lesson_start_page": 83,
+        "lesson_end_page": 91
+      }
+    ]
+  },
+  {
+    "unit_title": "الوحدة الثالثة: الصفات الخُلقية والخَلقية للنبي ﷺ",
+    "unit_start_page": 92,
+    "unit_end_page": 127,
+    "lessons": [
+      {
+        "lesson_title": "الدرس األول: الصفات الخَلقية للنبي ﷺ",
+        "lesson_start_page": 96,
+        "lesson_end_page": 106
+      },
+      {
+        "lesson_title": "الدرس الثاني: الصفات الخُلقية للنبي ﷺ",
+        "lesson_start_page": 107,
+        "lesson_end_page": 127
+      }
+    ]
+  },
+  {
+    "unit_title": "الوحدة الرابعة: هدي النبي ﷺ في أحواله وعالقاته االجتماعية",
+    "unit_start_page": 128,
+    "unit_end_page": 167,
+    "lessons": [
+      {
+        "lesson_title": "الدرس األول: هدي النبي ﷺ في أحواله",
+        "lesson_start_page": 132,
+        "lesson_end_page": 152
+      },
+      {
+        "lesson_title": "الدرس الثاني: هدي النبي ﷺ في عالقاته االجتماعية",
+        "lesson_start_page": 153,
+        "lesson_end_page": 167
+      }
+    ]
+  },
+  {
+    "unit_title": "الوحدة الخامسة: لباس النبي ﷺ وزينته وآالته",
+    "unit_start_page": 168,
+    "unit_end_page": 199,
+    "lessons": [
+      {
+        "lesson_title": "الدرس األول: لباس النبي ﷺ وزينته",
+        "lesson_start_page": 172,
+        "lesson_end_page": 180
+      },
+      {
+        "lesson_title": "الدرس الثاني: آالت النبي ﷺ",
+        "lesson_start_page": 181,
+        "lesson_end_page": 185
+      },
+      {
+        "lesson_title": "الدرس الثالث: آثار النبي ﷺ المنسوبة إليه والموقف الشرعي منها",
+        "lesson_start_page": 186,
+        "lesson_end_page": 195
+      },
+      {
+        "lesson_title": "الدرس الرابع: حكم التأسي بالنبي ﷺ في أفعاله وسائر أحواله",
+        "lesson_start_page": 196,
+        "lesson_end_page": 199
+      }
+    ]
+  }
+]
