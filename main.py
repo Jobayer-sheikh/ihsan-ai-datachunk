@@ -6,9 +6,9 @@ from agents import generate_structure_map_from_pdf
 # --- Configuration ---
 INPUT_DIR = Path("input")
 OUTPUT_DIR = Path("output")
-PDF_FILENAME = "11- كتاب الدلائل والشمائل النبوية (1).pdf"
+PDF_FILENAME = "book2.pdf"
 AGENT_MAP_FILENAME = "agent_map_pydantic.json"
-FINAL_JSON_FILENAME = "book1_structured_pydantic.json"
+FINAL_JSON_FILENAME = "book2_structured_pydantic.json"
 
 # --- Helper Function for Text Extraction ---
 def extract_text_from_pages(pdf_doc, start_page: int, end_page: int) -> str:

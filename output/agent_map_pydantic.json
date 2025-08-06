@@ -1,101 +1,166 @@
 [
   {
-    "unit_title": "الوحدة الأولى: مدخل إلى الدلائل والشمائل النبوية",
-    "unit_start_page": 12,
-    "unit_end_page": 44,
+    "unit_title": "الوحدة الأولى: مدخل إلى دراسة الأسانيد",
+    "unit_start_page": 10,
+    "unit_end_page": 31,
     "lessons": [
       {
-        "lesson_title": "الدرس الأول: النبوة والرسالة",
-        "lesson_start_page": 16,
-        "lesson_end_page": 25
+        "lesson_title": "التعريف بعلم دراسة الأسانيد وعلاقته بعلوم الحديث الأخرى",
+        "lesson_start_page": 13,
+        "lesson_end_page": 20
       },
       {
-        "lesson_title": "الدرس الثاني: الدلائل والشمائل والخصائص: تعريفها وآثارها والتأليف فيها",
-        "lesson_start_page": 26,
-        "lesson_end_page": 44
+        "lesson_title": "مسائل مهمة في علم دراسة الأسانيد",
+        "lesson_start_page": 21,
+        "lesson_end_page": 31
       }
     ]
   },
   {
-    "unit_title": "الوحدة الثانية: دالئل نبوة النبي صلى الله عليه وسلم وخصائصه وحقوقه",
-    "unit_start_page": 46,
-    "unit_end_page": 91,
+    "unit_title": "الوحدة الثانية: الجرح والتعديل",
+    "unit_start_page": 32,
+    "unit_end_page": 113,
     "lessons": [
       {
-        "lesson_title": "الدرس الأول: دالئل نبوة النبي صلى الله عليه وسلم في القرآن الكريم والسنة النبوية وأخبار السابقين",
+        "lesson_title": "التعريف بعلم الجرح والتعديل",
+        "lesson_start_page": 35,
+        "lesson_end_page": 43
+      },
+      {
+        "lesson_title": "صفة الناقد",
+        "lesson_start_page": 44,
+        "lesson_end_page": 49
+      },
+      {
+        "lesson_title": "العدالة والضبط",
         "lesson_start_page": 50,
-        "lesson_end_page": 70
+        "lesson_end_page": 57
       },
       {
-        "lesson_title": "الدرس الثاني: خصائص النبي صلى الله عليه وسلم",
-        "lesson_start_page": 71,
-        "lesson_end_page": 82
+        "lesson_title": "أسباب الطعن في الراوي",
+        "lesson_start_page": 58,
+        "lesson_end_page": 71
       },
       {
-        "lesson_title": "الدرس الثالث: حقوق النبي صلى الله عليه وسلم",
-        "lesson_start_page": 83,
-        "lesson_end_page": 91
-      }
-    ]
-  },
-  {
-    "unit_title": "الوحدة الثالثة: الصفات الخُلقية والخَلقية للنبي صلى الله عليه وسلم",
-    "unit_start_page": 92,
-    "unit_end_page": 127,
-    "lessons": [
+        "lesson_title": "ألفاظ الجرح والتعديل",
+        "lesson_start_page": 73,
+        "lesson_end_page": 85
+      },
       {
-        "lesson_title": "الدرس الأول: الصفات الخَلقية للنبي صلى الله عليه وسلم",
+        "lesson_title": "مراتب الجرح والتعديل",
+        "lesson_start_page": 86,
+        "lesson_end_page": 95
+      },
+      {
+        "lesson_title": "تعارض الجرح والتعديل",
         "lesson_start_page": 96,
-        "lesson_end_page": 106
-      },
-      {
-        "lesson_title": "الدرس الثاني: الصفات الخُلقية للنبي صلى الله عليه وسلم",
-        "lesson_start_page": 107,
-        "lesson_end_page": 127
+        "lesson_end_page": 113
       }
     ]
   },
   {
-    "unit_title": "الوحدة الرابعة: هدي النبي صلى الله عليه وسلم في أحواله وعالقاته االجتماعية",
-    "unit_start_page": 128,
-    "unit_end_page": 167,
+    "unit_title": "الوحدة الثالثة: كتب الرجال ومعرفة تراجمهم",
+    "unit_start_page": 114,
+    "unit_end_page": 201,
     "lessons": [
       {
-        "lesson_title": "الدرس الأول: هدي النبي صلى الله عليه وسلم في أحواله",
-        "lesson_start_page": 132,
-        "lesson_end_page": 151
+        "lesson_title": "التعريف بعلم الرجال",
+        "lesson_start_page": 117,
+        "lesson_end_page": 125
       },
       {
-        "lesson_title": "الدرس الثاني: هدي النبي صلى الله عليه وسلم في عالقاته االجتماعية",
-        "lesson_start_page": 153,
-        "lesson_end_page": 167
+        "lesson_title": "الكتب الجامعة المطلقة في الجرح والتعديل",
+        "lesson_start_page": 126,
+        "lesson_end_page": 135
+      },
+      {
+        "lesson_title": "كتب الثقات",
+        "lesson_start_page": 136,
+        "lesson_end_page": 141
+      },
+      {
+        "lesson_title": "كتب الضعفاء",
+        "lesson_start_page": 142,
+        "lesson_end_page": 155
+      },
+      {
+        "lesson_title": "الكتب الموسعة في تراجم رجال السنة",
+        "lesson_start_page": 156,
+        "lesson_end_page": 164
+      },
+      {
+        "lesson_title": "الكتب المختصرة في تراجم رجال السنة",
+        "lesson_start_page": 166,
+        "lesson_end_page": 174
+      },
+      {
+        "lesson_title": "كتب تراجم رجال الأئمة الأربعة",
+        "lesson_start_page": 175,
+        "lesson_end_page": 181
+      },
+      {
+        "lesson_title": "كتب معرفة المختلطين والمدلسين ورواة المراسيل",
+        "lesson_start_page": 182,
+        "lesson_end_page": 201
       }
     ]
   },
   {
-    "unit_title": "الوحدة الخامسة: لباس النبي صلى الله عليه وسلم وزينته وآالته",
-    "unit_start_page": 168,
-    "unit_end_page": 199,
+    "unit_title": "الوحدة الرابعة: خطوات دراسة الإسناد",
+    "unit_start_page": 202,
+    "unit_end_page": 252,
     "lessons": [
       {
-        "lesson_title": "الدرس الأول: لباس النبي صلى الله عليه وسلم وزينته",
-        "lesson_start_page": 172,
-        "lesson_end_page": 180
+        "lesson_title": "تعيين أشخاص الرواة",
+        "lesson_start_page": 205,
+        "lesson_end_page": 215
       },
       {
-        "lesson_title": "الدرس الثاني: آالت النبي صلى الله عليه وسلم",
-        "lesson_start_page": 181,
-        "lesson_end_page": 185
+        "lesson_title": "الترجمة للراوي",
+        "lesson_start_page": 216,
+        "lesson_end_page": 226
       },
       {
-        "lesson_title": "الدرس الثالث: آثار النبي صلى الله عليه وسلم المنسوبة إليه والموقف الشرعي منها",
-        "lesson_start_page": 186,
-        "lesson_end_page": 195
+        "lesson_title": "البحث في اتصال الإسناد",
+        "lesson_start_page": 227,
+        "lesson_end_page": 238
       },
       {
-        "lesson_title": "الدرس الرابع: حكم التأسي بالنبي صلى الله عليه وسلم في أفعاله وسائر أحواله",
-        "lesson_start_page": 196,
-        "lesson_end_page": 199
+        "lesson_title": "الحكم المبدئي على الإسناد",
+        "lesson_start_page": 239,
+        "lesson_end_page": 252
+      }
+    ]
+  },
+  {
+    "unit_title": "الوحدة الخامسة: الحكم على الحديث",
+    "unit_start_page": 258,
+    "unit_end_page": 298,
+    "lessons": [
+      {
+        "lesson_title": "جمع طرق الحديث",
+        "lesson_start_page": 261,
+        "lesson_end_page": 266
+      },
+      {
+        "lesson_title": "النظر في طرق الحديث (1)",
+        "lesson_start_page": 268,
+        "lesson_end_page": 271
+      },
+      {
+        "lesson_title": "النظر في طرق الحديث (2)",
+        "lesson_start_page": 273,
+        "lesson_end_page": 278
+      },
+      {
+        "lesson_title": "النظر في طرق الحديث (3)",
+        "lesson_start_page": 280,
+        "lesson_end_page": 288
+      },
+      {
+        "lesson_title": "جمع شواهد الحديث، والنظر في كالم الأئمة",
+        "lesson_start_page": 289,
+        "lesson_end_page": 298
       }
     ]
   }

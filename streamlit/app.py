@@ -20,6 +20,10 @@ BOOKS = {
     "Book 2": {
         "pdf_path": DATA_DIR / "book1.pdf",
         "json_path": DATA_DIR / "book1_structured_pydantic.json"
+    },
+    "Book 3": {
+        "pdf_path": DATA_DIR / "book2.pdf",
+        "json_path": DATA_DIR / "book2_structured_pydantic.json"
     }
 }
 
@@ -49,6 +53,8 @@ def show_pdf_with_component(pdf_path: Path, pages: list[int]):
         with open(pdf_path, "rb") as f:
             pdf_bytes = f.read()
         
+        # Call the component, passing the list of pages to render.
+        # This will filter the view to only the selected range.
         pdf_viewer(
             input=pdf_bytes,
             height=1000,
@@ -58,11 +64,11 @@ def show_pdf_with_component(pdf_path: Path, pages: list[int]):
         st.error(f"An error occurred while trying to display the PDF: {e}")
 
 
-# --- 2. State Management and Callbacks ---
+# --- 2. State Management and Callbacks (Updated for Page Ranges) ---
 
 # Initialize session state with a list for the page range
 if 'pages_to_show' not in st.session_state:
-    st.session_state.pages_to_show = [1] 
+    st.session_state.pages_to_show = [1] # Default to showing only the first page
 if 'selected_book' not in st.session_state:
     st.session_state.selected_book = list(BOOKS.keys())[0]
 if 'selected_unit' not in st.session_state:
@@ -72,7 +78,7 @@ def on_book_change():
     """Callback to reset state when the book selection changes."""
     st.session_state.selected_book = st.session_state.book_selector
     st.session_state.selected_unit = "Select a Unit..."
-    st.session_state.pages_to_show = [1]
+    st.session_state.pages_to_show = [1] # Reset view to page 1
 
 def on_unit_change():
     """Callback to set the page range for the selected unit."""
@@ -87,6 +93,7 @@ def on_unit_change():
         if unit["title"] == selected_unit_title:
             start_page = unit.get("start_page", 1)
             end_page = unit.get("end_page", start_page)
+            # Generate the full list of pages for the unit
             st.session_state.pages_to_show = list(range(start_page, end_page + 1))
             break
 
@@ -102,6 +109,7 @@ def on_lesson_change():
             if lesson["title"] == selected_lesson_title:
                 start_page = lesson.get("start_page", 1)
                 end_page = lesson.get("end_page", start_page)
+                # Generate the full list of pages for the lesson
                 st.session_state.pages_to_show = list(range(start_page, end_page + 1))
                 return
 
@@ -143,6 +151,7 @@ with st.sidebar:
             on_change=on_lesson_change
         )
     
+    # Updated info box to show the page range
     page_range_str = "All"
     if st.session_state.pages_to_show:
         start = st.session_state.pages_to_show[0]
@@ -155,6 +164,7 @@ with st.sidebar:
 
 st.subheader(f"Displaying: {selected_book_name}")
 
+# Call the updated function, passing the list of pages from session state
 show_pdf_with_component(
     pdf_path=BOOKS[selected_book_name]["pdf_path"],
     pages=st.session_state.pages_to_show
